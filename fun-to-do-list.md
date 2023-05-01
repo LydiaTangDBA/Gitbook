@@ -16,15 +16,9 @@ Here, you'll find my personal notes, recommendations, and experiences as I work 
 
 
 
-Let's have some fun together!
+Let's have some fun together!&#x20;
 
 
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 
 

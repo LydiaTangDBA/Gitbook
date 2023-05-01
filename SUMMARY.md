@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Gitbook Demo](README.md)
-* [😀 1.doc](1.doc.md)
+* [Have Fun](README.md)
+* [👾 Fun To-Do List](fun-to-do-list.md)

@@ -5,6 +5,5 @@ description: >-
   the experiences I hope to have along the way.
 ---
 
-# 🏔 Roaming the World: My Travel Bucket List
+# 🌅 Roaming the World: My Travel Bucket List
 
-:tada:
